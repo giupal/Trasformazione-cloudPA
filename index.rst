@@ -1,15 +1,9 @@
-#############
-Cloud Project
-#############
-
-
-Questo documento descrive ... 
-
-Nel Capitolo 1 vengono presentati ... 
-
-Nel Capitolo 2 vengono presentati ...
+################################################
+La Trasformazione della PA aka Processi in Corso
+################################################
 
 .. toctree::
 
-   _docs/cap1.rst
-   _docs/cap2.rst
+   _docs/razionalizzazione.rst
+   _docs/qualificazioni.rst
+   _docs/cloud-enablement-program.rst
